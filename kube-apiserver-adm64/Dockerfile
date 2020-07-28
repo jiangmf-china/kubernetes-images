@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-apiserver-amd64:v1.7.4
+FROM k8s.gcr.io/kube-apiserver:v1.17.9
 MAINTAINER jmf <jmf240625394@163.com>
