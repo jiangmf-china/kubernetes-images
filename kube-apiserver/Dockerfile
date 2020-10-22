@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-apiserver:v1.17.9
+FROM k8s.gcr.io/kube-apiserver:v1.17.13
 MAINTAINER jmf <jmf240625394@163.com>
